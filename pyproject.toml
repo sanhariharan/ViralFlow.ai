@@ -1,0 +1,19 @@
+[project]
+name = "cms-agent"
+version = "0.1.0"
+description = "AI Multi-Agent Cross-Platform Social Media Content Manager"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "langchain",
+    "langchain-community",
+    "langchain-groq",
+    "langgraph",
+    "pydantic",
+    "python-dotenv",
+    "requests",
+    "streamlit",
+    "tavily-python",
+    "uvicorn",
+]

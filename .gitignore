@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# uv package manager cache and lock files
+.uv/
+.uv-cache/
+uv.lock
+
+# Poetry/PDM/Other lock files (if any)
+poetry.lock
+pdm.lock
+
+# pyproject.toml (if you want to ignore it, but usually it's committed)
+# pyproject.toml
+
+# Misc
+*.log
