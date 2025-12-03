@@ -2,7 +2,7 @@
 
 # 🚀 ViralFlow AI: Multi-Agent Content Management System
 
-![ViralFlow AI Banner](https://raw.githubusercontent.com/sanhariharan/ViralFlow.ai/main/assets/banner.png)
+![ViralFlow AI Banner](https://raw.githubusercontent.com/sanhariharan/ViralFlow.ai/main/asset.png)
 
 A full-stack, production-ready multi-agent AI system for **LLM-powered content management**. Generate, optimize, and schedule platform-specific social media content with visuals—powered by LangGraph, Groq, and Tavily.
 
@@ -110,3 +110,4 @@ MIT
 ###### ⚡ Powered by LangGraph, Groq & Tavily
 
 ---
+
